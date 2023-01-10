@@ -8,4 +8,6 @@ echo "ejemplo de merge";
 
 echo "git pull desde web";
 
+echo "otro test para entender el merge";
+
 ?>
