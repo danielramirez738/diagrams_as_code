@@ -12,4 +12,6 @@ echo "otro test para entender el merge";
 
 echo "cambios en master";
 
+echo "cambios en new para hacer un merge";
+
 ?>
